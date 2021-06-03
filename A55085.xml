@@ -1,0 +1,1329 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Second part of The dancing master: or, Directions for dancing country dances with the tunes to each dance for the violin or flute.</title>
+            <title>English dancing master. Part 2.</title>
+         </titleStmt>
+         <extent>Approx. 46KB of XML-encoded text transcribed from 33 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55085</idno><idno type="EEBO-CITATION">99829270</idno>
+  <idno type="VID">33707</idno>
+  <idno type="EEBO-PROQUEST">2240862871</idno>
+  
+            <idno type="STC">Wing P2499B</idno>
+            <idno type="STC">ESTC R217612</idno>
+            <idno type="PROQUEST">99829270</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99829270e"/>
+            <note>(EEBO-TCP ; phase 2, no. A55085)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33707)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1976:06)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Second part of The dancing master: or, Directions for dancing country dances with the tunes to each dance for the violin or flute.</title>
+                  <title>English dancing master. Part 2.</title>
+                  <author>Playford, John, 1623-1686?, attributed name.</author>
+                  <author>Playford, Henry, b. 1657.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second edition, with additions.</edition>
+               </editionStmt>
+               <extent>[4], 36, 25-48 p. : music  </extent>
+               <publicationStmt>
+                  <publisher>printed for Henry Playford at his Shop in the Temple-Change over-against St. Dunstan's Church in Fleetstreet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Engraving no present on title page.</note>
+                  <note>Wing attributes work to John Playford.</note>
+                  <note>With an index.</note>
+                  <note>Pages 25-36 repeated in numbering only.</note>
+                  <note>Quire E is mis-signed as D.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Dance --  Early works to 1800.</term>
+               <term type="topical_term">Country-dances --  Early works to 1800.</term>
+               <term type="topical_term">Dance music --  England --  Early works to 1800.</term>
+               <term type="topical_term">Violin music --  Early works to 1800.</term>
+               <term type="topical_term">Flute music --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33707:1"/>
+            <pb facs="tcp:33707:1"/>
+            <p>The <hi>Second Part</hi> of the <hi>Dancing Master:</hi>
+            </p>
+            <p>
+               <hi>Or,</hi> Directions for Dancing COUNTRY DANCES, with the <hi>Tunes</hi> to each <hi>Dance</hi> for the <hi>Violin</hi> or <hi>Flute.</hi>
+            </p>
+            <p>The Second Edition, with Additions.</p>
+            <p>Printed for <hi>Henry Playford</hi> at his Shop in the <hi>Temple-Change</hi> over-against St. <hi>Dunstan</hi>'s Church in <hi>Fleetstreet:</hi> 1698.</p>
+            <p>Where both Parts are to be had bound together at 3 <hi>s.</hi> Or this Second Part stitch'd at 1 <hi>s.</hi>
+            </p>
+         </div>
+         <div type="index">
+            <pb facs="tcp:33707:2"/>
+            <pb facs="tcp:33707:2"/>
+            <head>A Table of the <hi>DANCES</hi> contained in this <hi>Second Part.</hi>
+            </head>
+            <list>
+               <head>A.</head>
+               <item>
+                  <hi>ANna Maria,</hi> Page. 31</item>
+            </list>
+            <list>
+               <head>B.</head>
+               <item>Black <hi>Bess, Page. 4</hi>
+               </item>
+               <item>Bishop of <hi>Chester</hi>'s Jigg, <hi>Page. 10</hi>
+               </item>
+               <item>
+                  <hi>Bury</hi> Fair, <hi>Page. 15</hi>
+               </item>
+               <item>Brittains, <hi>Page. 23</hi>
+               </item>
+               <item>Bonny Grey ey'd Morn, <hi>Page. 26</hi>
+               </item>
+               <item>Barley Mow, <hi>Page. * 36</hi>
+               </item>
+            </list>
+            <list>
+               <head>C.</head>
+               <item>Cornish <hi>Squire,</hi> Page. 19</item>
+               <item>
+                  <hi>Captains Maggot,</hi> Page. 32</item>
+            </list>
+            <list>
+               <head>D.</head>
+               <item>Dele take the Warr, <hi>Page. 27</hi>
+               </item>
+               <item>Dunmore <hi>Kate</hi> (with the Song,) <hi>Page. 35</hi>
+               </item>
+            </list>
+            <list>
+               <head>E.</head>
+               <item>Epsom <hi>Wells,</hi> Page. 12</item>
+               <item>Eagles<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eld<hi>'s Hornpipe,</hi> Page. 17</item>
+               <item>Europes <hi>Revells,</hi> Page. * 25</item>
+               <item>
+                  <hi>Edinburgh Castle,</hi> Page. 28</item>
+            </list>
+            <list>
+               <head>G</head>
+               <item>Geud Man of <hi>Ballangigh, Page. 24</hi>
+               </item>
+               <item>Greenwich Park, <hi>Page. * 33</hi>
+               </item>
+            </list>
+            <list>
+               <head>H.</head>
+               <item>Happy Marriage, <hi>Page. 3</hi>
+               </item>
+               <item>Happy Meeting, <hi>Page. 14</hi>
+               </item>
+               <item>
+                  <hi>Hobb</hi>'s Wedding (A Kissing Dance) <hi>Page. 16</hi>
+               </item>
+               <item>Happy Miller, <hi>Page. 22</hi>
+               </item>
+               <item>Hole in the Wall, <hi>Page. 30</hi>
+               </item>
+               <item>Hilanders March, <hi>Page. * 32</hi>
+               </item>
+            </list>
+            <list>
+               <head>I.</head>
+               <item>Irish Bore, <hi>Page. 8</hi>
+               </item>
+            </list>
+            <list>
+               <head>L.</head>
+               <item>Lanes Trumpet Minuet, Danc'd with the step, <hi>Page. 2</hi>
+               </item>
+               <item>Love for Love (Danc'd in the Play,) <hi>Page. 20</hi>
+               </item>
+               <item>Lambeth Wells, <hi>Page. 34</hi>
+               </item>
+               <pb facs="tcp:33707:3"/>
+               <item>Lord Byrond's Delight, <hi>Page. * 45</hi>
+               </item>
+               <item>Lord Mayors Delight, <hi>Page. 29</hi>
+               </item>
+            </list>
+            <list>
+               <head>M.</head>
+               <item>Man was for Woman made, <hi>Page. 1</hi>
+               </item>
+               <item>More the Merrier, <hi>Page. 6</hi>
+               </item>
+               <item>Mock Match, <hi>Page. * 27</hi>
+               </item>
+               <item>Mad Mol, <hi>Page. * 30</hi>
+               </item>
+            </list>
+            <list>
+               <head>P.</head>
+               <item>
+                  <hi>Purlongs,</hi> Page. 18</item>
+            </list>
+            <list>
+               <head>S.</head>
+               <item>St. <hi>Martins</hi> Lane, <hi>Page. 5</hi>
+               </item>
+               <item>Souldier and a Saylor, <hi>Page. 7</hi>
+               </item>
+               <item>Shores Trumpet Tune, <hi>Page. * 34</hi>
+               </item>
+               <item>Sham Doctor, <hi>Page. 26</hi>
+               </item>
+            </list>
+            <list>
+               <head>T.</head>
+               <item>Take Not a Womans Anger Ill, <hi>Page. 9</hi>
+               </item>
+               <item>Twas within a furlong <hi>Edinborough</hi> Town, <hi>Page. 21</hi>
+               </item>
+               <item>Temple Change, <hi>Page. * 28</hi>
+               </item>
+            </list>
+            <list>
+               <head>W.</head>
+               <item>Wa is me, <hi>Page. 11</hi>
+               </item>
+               <item>Winchester Wedding, <hi>Page. 33</hi>
+               </item>
+               <item>Walton Abby, <hi>Page. * 29</hi>
+               </item>
+               <item>Westminister Hall, <hi>Page. * 31</hi>
+               </item>
+            </list>
+            <list>
+               <head>Y.</head>
+               <item>Youngs Delight, <hi>Page. 13</hi>
+               </item>
+               <item>Young Sir Solomon. <hi>Page. 25</hi>
+               </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="song">
+            <pb n="1" facs="tcp:33707:3"/>
+            <head>
+               <hi>Man was for Woman made.</hi> Longways for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The two men go to the two we. and bring them back into the middle of the Room, then all turn round S. into their places; then the two we. go to the two men and bring them back into the mid<g ref="char:EOLhyphen"/>dle of the Room, then all turn round S. into their places. <hi>This to the first Strain played twice.</hi>
+            </p>
+            <p>Turn your Partners half round, and cast off to each others Partners and clap hands, then turn again each others Partners half round, then cast off and clap hands, then all cross over, the 1. cu. leading up, and the 2. cu. leading down; then the 1. cu. cast off, and the 2. cu. lead up. <hi>This to the second Strain played once.</hi>
+            </p>
+         </div>
+         <div type="song">
+            <pb n="2" facs="tcp:33707:4"/>
+            <head>Mr. <hi>Lane</hi>'s Trumpet-Minuet, to be danc'd with the Minuet Step. Longways for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The 1. man set to the 2. wo. then fall back and turn S. the 1. wo. set to the 2. man, then fall back and turn S. <hi>This to the first Strain played twice.</hi>
+            </p>
+            <p>The 1. man take the 2. man by the right hand, and turn round till they come into their own places again, then all four take hands quite round till they come into their own places again; then 1. wo. take right hands with the 2. wo. and turn her till she comes into her own place, and all four hands round back again till they come into their own places; then 1. man take, his Partner and lead her into the 2. cu. place. <hi>This to the second Strain played twice, and so far back as from the Repeat.</hi>
+            </p>
+         </div>
+         <div type="song">
+            <pb n="3" facs="tcp:33707:4"/>
+            <head>
+               <hi>The Happy Marriage.</hi> Longways for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The 1. man cast off below the 2. man, go back to back with the 1. wo. and stand in the 2. man's place; then 1. wo. cast off below the 2. wo. go back to back with the 1. man, and stand in the 2. wo. place. <hi>This to the first Strain played twice.</hi>
+            </p>
+            <p>All four right hands across half round, then left hands back again, which brings the 1. cu. into the 2. cu. place; then the Figure of 8, through the 1. cu. which brings them into the 2. cu. place.</p>
+         </div>
+         <div type="song">
+            <pb n="4" facs="tcp:33707:5"/>
+            <head>
+               <hi>Black</hi> Bess. Longways for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The 1. man cast off below the 2. man, then go back to back with the 1. wo. and stand in the 2. man's place; the 1. wo. cast off below the 2. wo. and go back to back with the 1. man, and stand in the 2. wo. place. <hi>This to the first Strain twice.</hi>
+            </p>
+            <p>Both cu. back to back with their Partners, then right and left hands with your own Partners till you come into your own places; the 1. man change places with the 2. wo. and the 2. man with the 1. wo. then turn your own Partners to your own sides.</p>
+         </div>
+         <div type="song">
+            <pb n="5" facs="tcp:33707:5"/>
+            <head>
+               <hi>St. Martin's Lane.</hi> Longways for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The 1. man cast off below the 2. man, then turn the 3. wo. and cast up into his own place; then the 1. wo. cast off below the 2. wo. then turn the 3. man and cast up into her own place. <hi>This to the first Strain played twice.</hi>
+            </p>
+            <p>Lead down the 2. cu. then all hands abreast with the third cu. and go the Figure through, then cast up and all four hands abreast with the 2. cu. then lead up, and go the Figure through, the 2. cu. then meet in the 2. cu. place and turn; the others do the like.</p>
+         </div>
+         <div type="song">
+            <pb n="6" facs="tcp:33707:6"/>
+            <head>
+               <hi>The more the merrier.</hi> Longways for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The 1. cu. take hands and turn down between the 2. cu. and then cast up at the same time; the 2. cu. do the like. <hi>This ends the first Strain played twice.</hi>
+            </p>
+            <p>The 1. cu. cross over below the 2. cu. and go the Figure through, then all four meet and lead up, then hands abreast, then lead through and cast off.</p>
+         </div>
+         <div type="song">
+            <pb n="7" facs="tcp:33707:6"/>
+            <head>
+               <hi>The Soldier and the Sailer.</hi> Longways for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The 1. cu. lead between the 2. cu. then cast up and go the Figure, then meet their own Partner, a Change, sides and cast off into the 2. cu. place; the 2. cu. do the same. <hi>This to the first Strain twice.</hi>
+            </p>
+            <p>The 1. man turn the 2. wo. with the right hand and go into their own places, the other cu. do the same; then clap hands with their Partners, and the 1. cu. cast off. <hi>This to the second Strain once.</hi>
+            </p>
+            <p>Take hands with your Partners, and draw aside back to back till you come into your own places again; then lead through, and cast off. <hi>This to the second Strain twice.</hi>
+            </p>
+         </div>
+         <div type="song">
+            <pb n="8" facs="tcp:33707:7"/>
+            <head>
+               <hi>Irish Boree.</hi> Longways for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The 1. wo. cast off below the 2. wo. and slip up the middle into her own place, then the 1. man go on the outside of the 2. man and slip up into his own place, then cast off below the 2. man, and slip up the middle into his own place again; then the 1. wo. follow the 1. man, and slip up the outside of the 2. wo. into her own place. <hi>This to the first Strain played twice.</hi>
+            </p>
+            <p>The 1. man change places with the 2. man, the other two do the same; then all four hands half round and cast off.</p>
+         </div>
+         <div type="song">
+            <pb n="9" facs="tcp:33707:7"/>
+            <head>
+               <q>
+                  <l>Take not a Woman's Anger ill,</l>
+                  <l>For if one won't, another will.</l>
+               </q> Longways for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The 1. man take hands with the 2. man and turn quite round, and meet the 2. wo. one step back, turn his own wo. round by the left hand and fall back into his own place; then 1. man turn 2. wo. quite round by the left hand and meet the 2. man one step back, then turn her Partner by the right hand into her own place. <hi>This ends the first Strain played twice.</hi>
+            </p>
+            <p>Then both cu. meet, lead out, and turn S. then 1. cu. slip down the middle and up again, then hands round into the 2. cu. place; then both cu. meet, lead out, and turn S, then 2. cu. slip down and back again; then both hands round, and the 1. cu. set in the 2. cu. place.</p>
+         </div>
+         <div type="song">
+            <pb n="10" facs="tcp:33707:8"/>
+            <head>
+               <hi>Bishop of</hi> Chester<hi>'s Jigg.</hi> Longways for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The 1. man cast off and slip up the middle into his own place, the 2. wo. at the same time slip up the middle and go above the 1. wo. and cast off into her own place; the 1. wo. and 2. man do the like. <hi>This to the first Strain played twice.</hi>
+            </p>
+            <p>Cross over with your own Partners, then the 1. man cross over with the 2. wo. and the 2. man cross over with the 1. wo. and turn your Partners: The rest do the like.</p>
+         </div>
+         <div type="song">
+            <pb n="11" facs="tcp:33707:8"/>
+            <head>
+               <hi>Wa is me, what mun I do!</hi> Longways for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The 1. man take the 2. wo. and his own wo. by the hands. and turn them round till he comes into the 2. wo. place, then all hands, then lead them both round the 2. man into the 2. wo. place till they come all square; the 2. man turn the 2. wo. improper till he comes into the 1. man's place, all abreast, then lead the two we. round the 1. man as he stands till he comes into the 1. wo. place improper, all square as before. <hi>This to the first Strain played twice.</hi>
+            </p>
+            <p>The two men and two we. fall back face to face, then slip face to face, the man below and the we. above, then each man lead his wo. to the wall, and all four cast off singly face to face, then cross over in each other's places and turn face to face; then the 1. man meet the 2. wo. and back again, and the other do the same; then all hands round till the 1. cu. comes into the 2. cu. place.</p>
+         </div>
+         <div type="song">
+            <pb n="12" facs="tcp:33707:9"/>
+            <head>
+               <hi>Epsom Wells.</hi> Longways for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>the 1. cu. cast off into the 2. cu. place, then take hands and turn, and then cast up again into their own places. <hi>Thit to the first Strain played once.</hi>
+            </p>
+            <p>The 1. cu. go the Figure of 8, through the 2. cu. then take hands and turn till they come to their own sides. <hi>This to the first Strain played twice.</hi>
+            </p>
+            <p>The 1. cu. cross over below the 2. cu. and lead between the 3. cu. then cast up above the 3. cu. and cross up above the 2. cu. into their own places; the 1. man change places with the 2. wo. the other doing the like; then all four take hands and go quite round till the 1. cu. comes into their own places, and then the 1. cu. cast off. <hi>This to the second Strain played once.</hi>
+            </p>
+         </div>
+         <div type="song">
+            <pb n="13" facs="tcp:33707:9"/>
+            <head>
+               <hi>Mr.</hi> Young<hi>'s Delight.</hi> Longways for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>All four hands half round, then fall back and turn round from each another S. then the 1. man cross over with the 2. wo. and the the 1. wo. with the 2. man. <hi>This to the first Strain played once.</hi>
+            </p>
+            <p>Fall all back, then meet and turn back to back, and then take all hands and turn half round; then the 1. cu. lead down and back again, and the 2. cu. lead up and back again, then turn your Part<g ref="char:EOLhyphen"/>ners in their proper places</p>
+         </div>
+         <div type="song">
+            <pb n="14" facs="tcp:33707:10"/>
+            <head>
+               <hi>The Happy Meeting.</hi> Longways for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The 1. cu. go the Figure through the 2. cu. and then cross over above into the 2. cu. place; the other cu. do the like. <hi>This to the first Strain played twice.</hi>
+            </p>
+            <p>Both cu. clap hands with their Partners, the 1. cu. cast off, then right and left with your Partners quite round; the 2. cu. being in the 1. cu. place, clap hands and cast off, then right and left as before.</p>
+         </div>
+         <div type="song">
+            <pb n="15" facs="tcp:33707:10"/>
+            <head>
+               <hi>Bury Fair.</hi> Longways for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <hi>Play each Strain twice, and end with the third Strain.</hi>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The 1. man cast off and fall between the 3. cu. and all three hands abreast; the 1. wo. cast off and fall between the 2. cu. and set to one another face to face; the 1. man and 3. cu. take all three hands and go half round and back again, the 1. wo. and 2. cu. do the same: The 1. man and 3. cu. go the Hay, the 1. wo. and 2. cu. do the same; then the 1. man take his Partner by the hand in the 2. cu. place, and lead her through the 3. cu. and cast up into the 2. cu. place, then lead through the other cu. and cast off into the 2. cu. place.</p>
+         </div>
+         <div type="song">
+            <pb n="16" facs="tcp:33707:11"/>
+            <head>
+               <hi>Hobb's Wedding:</hi> A Kissing-Dance in the <hi>Country Wake.</hi> Longways for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The 1. cu. cast off half way, the 2. cu. cross over at the same time, then lead up and turn from each other, the man to the right, and the wo. to the left. <hi>This to the first Strain played once.</hi>
+            </p>
+            <p>Then meet the 1. cu. the wo. the man, and the man the wo. then the 1. man turn the 2. wo. left hands round, the 2. man doing the same with the 1. wo. till they come all on a row with their left shoul<g ref="char:EOLhyphen"/>ders to each other, the men with their faces down, and the we. with theirs up. <hi>First Strain twice.</hi>
+            </p>
+            <p>Then pass by till you come to a Square, the men with their faces down, and the we. with theirs up, then all turn S. to the left hand with their faces to each other; then right and left three times, the 1. man beginning with the 2. wo. and the 2. man with the 1. wo. <hi>This to the second Strain played once.</hi>
+            </p>
+            <p>The 1. man pulls the 2. wo. back, and the 2. man puts the 1. wo. from him till the 2. cu. comes back to back, each man kissing the contrary wo. then the 1. cu. cast off the man to the left hand and the wo. to the right, the 2. cu. casting up both to the right hand till they come in their proper places.</p>
+         </div>
+         <div type="song">
+            <pb n="17" facs="tcp:33707:11"/>
+            <head>
+               <hi>Mr.</hi> Eaglesfield<hi>'s New Hornpipe.</hi> Longways for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The 1. man turn his Partner half round and foot it, then hold both hands and pull her round the 2. wo. into the 2. cu. place; the 2. cu. do the same. <hi>This to the first Strain played twice.</hi>
+            </p>
+            <p>The 1. and 2. cu. take their Partners by both hands, then one slip up and the other down, and back again, then fall back and turn S. The 2. cu. slip up the middle, and the 1. cu. down; the 1. cu. slip the middle, and the 2. cu. down; then the 1. cu. cast off into the 2. cu. place, and the 2. cu. lead up.</p>
+         </div>
+         <div type="song">
+            <pb n="18" facs="tcp:33707:12"/>
+            <head>
+               <hi>The Purlongs.</hi> Longways for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The 1. man and 1. wo. cross over below the 2. cu. and take hands half round and foot it. <hi>This to the first Strain played twice.</hi>
+            </p>
+            <p>The 2. cu. do the same proper; then the men take hands and fall back, and the we. do the like; then men turn half round face to face, and the we. do the like; then three steps forward and three back, and then right and left three times till they come improper, with the 1. man's face to the 2. wo. and the 1. wo.'s face to the 2. man's; then fall back as before and cast off half round, and then meet as before and fall back; then right and left three times, and turn your own Partners till you come into the 2. cu. place.</p>
+         </div>
+         <div type="song">
+            <pb n="19" facs="tcp:33707:12"/>
+            <head>
+               <hi>The Cornish Squire.</hi> Longways for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The 1. cu. cross over and meet in the 2. cu. place, the 1. man take hands with the 3. cu. and lead all three abreast downwards, and the 1. wo. take hands between the 2. cu. and lead with her face up<g ref="char:EOLhyphen"/>wards, the 1. man and 3. cu. going the Hey at the same time, and the first wo. and 2. cu. do the like; the 1. man meet his own Partner in the middle and turn her round, lead through the 1. cu. and cast off into the 2. cu. place again, then go the Figure of 8 through the 3. cu. into the 2. cu. place.</p>
+         </div>
+         <div type="song">
+            <pb n="20" facs="tcp:33707:13"/>
+            <head>
+               <hi>Love for Love:</hi> Danc'd in the Play. Longways for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The 1. man put his wo. from him, and the 2. man pull his wo. to him and set, then the 1. man and 2. wo. back to back and go round their Partners both on the left hand at the same time, then the 2. man and 1. wo. turn right hands round to the Figure of a Diamond. <hi>This to the first Strain played once.</hi>
+            </p>
+            <p>The 1. man turn the 2. wo. and right hands round, then each to their own Partners and left hands round till they come to the Diamond again. <hi>This to the first Strain played twice.</hi>
+            </p>
+            <p>Each man cross over with his own wo. with their left hands one to the other, then back again to the left till they come all on a row longways, then clap both hands against each other; the 1. man cast off to the left hand and his wo. follow him, the 2. wo. cast off to the left hand and her man follow her, then each cross over with his own Partner, the 1. cu. being in the 2. rank. <hi>This to the second Strain played once.</hi>
+            </p>
+            <p>Then move to the left hand to each others places and clap hands, the same back again, then right and left twice, each beginning with his own Partner; then hands half round to the left.</p>
+         </div>
+         <div type="song">
+            <pb n="12" facs="tcp:33707:13"/>
+            <head>
+               <hi>'Twas within a Furlong of</hi> Edinborough <hi>Town.</hi> Longways for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The 1. man go between the two we. and lead them to the wall, then give a nod to the right hand, and then to the left, and fall back, then hold hands and turn round, the man into his place, and the we. into theirs; then the 1. wo. do the same to the two men. <hi>This to the first Strain played twice.</hi>
+            </p>
+            <p>The 1. man lead his wo. down the middle, then cast up and give a peep, and then cast off back again, then cross through the 2. cu. and meet your Partner improper; The 2. cu. lead down, then cast up and give a peep, and then cast off back again; then all hands half round, and then turn their Partners half round.</p>
+         </div>
+         <div type="song">
+            <pb n="22" facs="tcp:33707:14"/>
+            <head>
+               <hi>The Happy Miller.</hi> Longways for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The 1. man change places with the 2. wo. and the 1. wo. change places with the 2. man, then cross over into your own places and clap hands with your own Partners, then lead up above and cast off.</p>
+         </div>
+         <div type="song">
+            <pb n="23" facs="tcp:33707:14"/>
+            <head>
+               <hi>The Britains.</hi> Longways for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The 1. man cast off to his left hand into the 2. wo. place, and the 2. wo. cast up into the 1. man's place, then turn both hands into their own places; then the 1. wo. cast off to her right hand into the 2. man's place, and the 2. man cast up into the 1. wo. place, then take both hands and turn into their own places; then the two men lead through the two we. and cross over into each others places, and then hands round and come into each others places again; then the we. go between the men, and cross over into each others places and hands round.</p>
+         </div>
+         <div type="song">
+            <pb n="24" facs="tcp:33707:15"/>
+            <head>
+               <q>
+                  <l>The Geud Man of <hi>Ballangigh;</hi>
+                  </l>
+                  <l>To a New <hi>Scotch</hi> Jigg.</l>
+               </q> Longways for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The 1. cu. lead down between the 2. cu. and cast up into their places, then the 1. man take the 2. man with his right hand and lead through between the two we. and come into their own places. <hi>This to the first Strain played once.</hi>
+            </p>
+            <p>The 2. cu. lead up through the 1. cu. and cast off into their own places, and the 1. wo. and 2 wo. lead through between the two men, and cast off into their own places. <hi>This to the first Strain played twice.</hi>
+            </p>
+            <p>The 1. man set to the 2. wo. then fall back and turn S. the 1. wo. do the like to the 2. man, then all four hands half round, then set to your Partners and change to your own sides.</p>
+         </div>
+         <div type="song">
+            <pb n="25" facs="tcp:33707:15"/>
+            <head>
+               <hi>Young Sir Salomon.</hi> Longways for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The 1. cu. meet and set, and cast off into the 2. cu. place, then meet and set, and cast up into their own places <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>
+            </p>
+            <p>The 1. cu. cross over below the 2. cu. and stand still, the 2. cu. being in the 1. cu. place take hands and turn half round, the 1. man being in the 2. wo. place, and the 1. wo. in the 2. man's, all four take hands and lead below the 3. cu. round, till the 1. cu. comes into the 2. cu. place to their own sides <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="song">
+            <pb n="26" facs="tcp:33707:16"/>
+            <head>
+               <hi>The bonny Grey-Ey'd Morn.</hi> Longways for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The 1. man turn the 2. wo. and come up into his own place, and cast off below the 2. man; the 1. wo. do the same <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> The 2. cu. being in the 1. cu. place, do the same <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>
+            </p>
+            <p>The 1. cu. being in their own places, cross over below the 2. cu. and go the Figure, then lead through the 3. cu. and cast up into the 2. cu. place, the 2. cu. being in the 1. cu. place do the same, the 1. cu. cast<g ref="char:EOLhyphen"/>ing off at the same time.</p>
+         </div>
+         <div type="song">
+            <pb n="27" facs="tcp:33707:16"/>
+            <head>
+               <hi>De'il take the Wars.</hi> Longways for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The 1. cu. cast off below the 2. cu. and lead through the 3. cu. and cast up into the 2. cu. place, the 2. cu. being in the 1. cu. place do the same <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>
+            </p>
+            <p>The 1. cu. cross over below the 2. cu. and go the Figure of 8, then lead through the 3. cu. and cast up into the 2. cu. place, then lead through the 1. cu. and cast off into the 2. cu. place and turn your Partner <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="song">
+            <pb n="28" facs="tcp:33707:17"/>
+            <head>
+               <hi>Edinburgh Castle.</hi> Longways for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The 1. man cast off below the 2. man, and go the Hey with the 2. man and 2. wo. till the 1. man comes into the 2. man's place <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> The 1. wo. cast off below the 2. wo. and do the like <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>
+            </p>
+            <p>First cu. being in the 2. cu. place, the two men lead to the wall, and the two we. do the same at the same time, then the 1. cu. lead up, and the 2. cu. lead down at the same time. then right hands across all four half round, and then left hands and back again, till the 1. cu. come into the 2. cu. place <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> The rest do the like <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="song">
+            <pb n="29" facs="tcp:33707:17"/>
+            <head>
+               <hi>The Lord Mayor's Delight.</hi> Longways for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The 1. man cast off below the 2. man, then back to back with the 2. wo. and stand in the 2. man's place <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> The 1. wo. cast off below the 2. wo. and go back to back with the 2. man, being in the 1. man's place, and stand in the 2. wo. place <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>
+            </p>
+            <p>All four hands half round, then fall back and turn S. <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> Cross over with your own Partners, then the 1. cu. set to their own Partners and cast off <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="song">
+            <pb n="30" facs="tcp:33707:18"/>
+            <head>
+               <hi>The Hole in the Wall.</hi> Longways for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The 1. cu. cast off below the 2. cu. and lead up in the middle <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> The 2. cu. cast up, and lead down the middle <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>
+            </p>
+            <p>The 1. man cross over with the 2. wo. and the 1. wo. with the 2. man, so all four hands half round, and so cast off in<g ref="char:EOLhyphen"/>to to the 2. cu. place, the rest do the like.</p>
+         </div>
+         <div type="song">
+            <head>
+               <hi>None such.</hi> Longways for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <pb n="31" facs="tcp:33707:18"/>
+            <p>All four hands half round and fall back, the 1. man being in the 2. wo. place, cross over with the 2. wo. in the 1. man's place <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> All four hands half round again, and the 1. wo. change places with the 2. man <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>
+            </p>
+            <p>The 1. man being in the 2. wo. place, go back to back with the 2. wo. into the 1. man's place, the o<g ref="char:EOLhyphen"/>ther two do the like <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> The 1. cu. being in the 2. cu. place, go the Half Figure above till they come into the 2. cu. place, the other do the like at the same time <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="song">
+            <head>
+               <hi>Anna Maria.</hi> Longways for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The 1. cu. take hands and lead through the 2. cu. and cast up into their own places <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> The 2. cu. lead up through the 1. and cast off into their own places <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>
+            </p>
+            <p>All four hands half round, then cross over with your own Partners <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> The 1. cu. being in the 2. cu. place, go the Figure through till the 1. cu. comes into the 2. cu. place <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="song">
+            <pb n="32" facs="tcp:33707:19"/>
+            <head>
+               <hi>Captain's Magot.</hi> Longways for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The 1. man go within side of the 2. man, then go round about him and stand below the 3. man <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> The 1. wo. do the same <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>
+            </p>
+            <p>The 1. cu. being below the 3. cu. cross over above the 3. cu. and so above the 2. cu. into their own places <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> The 1. cu. take hands with his Partner and lead down the 2. cu. then lead up again into their own places and cast off <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="song">
+            <pb n="33" facs="tcp:33707:19"/>
+            <head>
+               <hi>Winchester Wedding.</hi> Longways for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The 1. cu. set to their Partners, and cast off below the 2. cu. and turn <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> Take hands, and lead down towards the 3. cu. and turn their Partners <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>
+            </p>
+            <p>The 1. cu. being in the 2. cu. place, the 1. man turns the 2. wo. by the right hand, and the 1. wo. turns the 3. man by the right hand at the same time, so meet in the middle, and turn to their own sides <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> The 1. man being in the 2. cu. place, turns the third wo. by the right hand; then the 1. wo. being in the 2. wo. place, the 1. wo. turns the 1. man, and the 1. man the 3. wo. with their right hands, so meet in the middle, and turn to your own sides <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="song">
+            <pb n="34" facs="tcp:33707:20"/>
+            <head>
+               <hi>Lambeth Wells.</hi> Longways for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The 1. cu. clap hands with his Partner and cast off, then lead through the 3. cu. and cast up in the 2. cu. place <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> Clap hands, and cast off below the 3. cu. and le<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> through between the 3. and 2. cu. in<g ref="char:EOLhyphen"/>to your own places <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>
+            </p>
+            <p>The 1 man cross over with the 2. wo. and 1. wo. with the 2. man, then all four hands quite round <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> Right and left with your Partners quite round, till the 1. cu. come into the 2. cu. place.</p>
+         </div>
+         <div type="song">
+            <pb n="35" facs="tcp:33707:20"/>
+            <head>
+               <hi>Dunmore Kate;</hi> with the Song. Longways for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The two men take hands and lead between the two. we. and come into their own places, the 1. man take his Partner by the right hand and lead through the 2. cu. and cast up into their own places, then all four hands half round and fall back, and change with your own Partners; the rest do the same.</p>
+            <div type="song">
+               <head>The SONG.</head>
+               <lg>
+                  <l>THere lately was a Maiden fair,</l>
+                  <l>With ruddy Cheeks, and Nut-brown Hair,</l>
+                  <l>Who up to Town did trudge, Sir;</l>
+                  <l>This pretty Maid, whose Name was <hi>Kate,</hi>
+                  </l>
+                  <l>Met here a hard unlucky Fate,</l>
+                  <l>As you anon shall judge, Sir.</l>
+               </lg>
+               <lg n="2">
+                  <pb n="36" facs="tcp:33707:21"/>
+                  <head>II.</head>
+                  <l>A little er'e it did grow dark,</l>
+                  <l>She needs must walk into the Park,</l>
+                  <l>The Gentry for to see, Sir:</l>
+                  <l>Where soon she met a Footman gay,</l>
+                  <l>That stopt her short, and made her stay,</l>
+                  <l>To sit down under Tree, Sir.</l>
+               </lg>
+               <lg n="3">
+                  <head>III.</head>
+                  <l>This Footman swore he was a Lord,</l>
+                  <l>Which soon made <hi>Katy</hi> to accord,</l>
+                  <l>And grant him his full Will, Sir.</l>
+                  <l>She kiss'd his Lordship o'er and o'er,</l>
+                  <l>And open'd all her Country Store,</l>
+                  <l>And let him take his fill, Sir.</l>
+               </lg>
+               <lg n="4">
+                  <head>IV.</head>
+                  <l>But when she heard one call out, <hi>John,</hi>
+                  </l>
+                  <l>Up rose her Spark, and streight was gone</l>
+                  <l>To trot before the Chair, Sir:</l>
+                  <l>Which made this Damsel all alone</l>
+                  <l>To sigh, and sob, and make great moan,</l>
+                  <l>And shed full many a Tear, Sir.</l>
+               </lg>
+               <lg n="5">
+                  <head>V.</head>
+                  <l>Quoth she, If these be <hi>London</hi> Tricks,</l>
+                  <l>God send me down amongst my <hi>Dicks</hi>
+                  </l>
+                  <l>That live on <hi>Dunsmore-Heath,</hi> Sir:</l>
+                  <l>If ever I come here again,</l>
+                  <l>Or er'st believe one Man in ten,</l>
+                  <l>May the De'il come stop my Breath, Sir.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="song">
+            <pb n="25" facs="tcp:33707:21"/>
+            <head>
+               <hi>Europes Revels.</hi> Long way for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The 1. man Improper, the 1. man sets to the 2. man and both turn single <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> The 1. woman and 2. woman the same <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> The 1. cu. fall back and change places <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> The 1. cu. go the half figure of 8 thro' the 2. cu. and slip down the middle to 2. Improper (and at the same time the 2. cu. change sides).</p>
+         </div>
+         <div type="song">
+            <pb n="26" facs="tcp:33707:22"/>
+            <head>
+               <hi>The sham Doctor.</hi> Long way for as many as-will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <hi>Each strain play'd twice.</hi>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>First figure single and turn your wo. half round, then cast off, and the man goes with his face to the 2. cu. and the wo. to the 1. cu. and turn them half round, and come between them and clap hands with your Partner, and lead thro' the one side and meet and clap hands, and lead thorough the other cu. then all turn your Partners in their own places.</p>
+         </div>
+         <div type="song">
+            <pb n="27" facs="tcp:33707:22"/>
+            <head>
+               <hi>The Mock Match.</hi> Long way for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <hi>Each strain twice.</hi>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>First figure single, and right hand and left, then figure single with the next cu. and right hand and left, then cast up one cu. and change the man in the wo. place, then cast up a top and change again <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> then you will be in your own places, then right hand and left till you come below, then lead through the first cu. then you will come right.</p>
+         </div>
+         <div type="song">
+            <pb n="28" facs="tcp:33707:23"/>
+            <head>
+               <hi>The</hi> Temple-Change. Long way for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>All 4. hands half round and turn single <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> Then hands half round again to the same <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> The 1. man and 2. woman change places, the 1. woman and 2. man then do the same; then all 4. hands half round, then 1. couple cast off, the 2. proper.</p>
+         </div>
+         <div type="song">
+            <pb n="29" facs="tcp:33707:23"/>
+            <head>
+               <hi>Walton Abey.</hi> Long way for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The 1. man cast off and his Partner follows him into the 2. cu. place, and then go back to back with his Partner, The 1. woman being in the 2. mans place, cast up into her own place, her Part<g ref="char:EOLhyphen"/>ner follows her into his own place and go back to back the first <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>
+            </p>
+            <p>The 1. cu. cross over below the 2. cu. and go the Figure thorow <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> Then lead down thorow be<g ref="char:EOLhyphen"/>low, and then lead up thorow above, and cast off into the 2. cu. place <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="song">
+            <pb n="30" facs="tcp:33707:24"/>
+            <head>
+               <hi>Mad</hi> Moll. Long way for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The 1. cu. take hands and draw into the 2. cu. place. The 2. cu. at the same time hands to the 1. cu. place; then each cu. back to back with their Partners <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> The 2. cu. does the same, which brings 1. and 2. cu. as they began <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> All 4. right hands across half round, then left hands across back again to the same <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> Then the first cu. cross over above 2. cu. to 2. cu. place, then go the whole Figure of Eight, which brings the 1. cu. to 2. proper.</p>
+         </div>
+         <div type="song">
+            <pb n="31" facs="tcp:33707:24"/>
+            <head>Westminster-Hall. Long way for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <hi>The</hi> 1. <hi>strain twice, and the</hi> 2. <hi>strain once.</hi>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The 1. man set to the 2. woman and turn the 2. man and go back to back with his own Partner <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>
+            </p>
+            <p>The 1. woman does the same <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>
+            </p>
+            <p>The 1. cu. cross over and go back to back with his Partner, then go the Figure above into the 2. cu. place.</p>
+         </div>
+         <div type="song">
+            <pb n="32" facs="tcp:33707:25"/>
+            <head>
+               <hi>The</hi> Hilanders <hi>March</hi> Long way for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The 1. cu. lead up and cast off, then lead down towards the 3. cu. Then lead up the 2. cu. into their own places; then take hands and fall back, meet and turn single, then lead down the middle, meet and cast up into their own places, The 1. man turns the 2. woman, and falls into his own place, the 2. woman does the same; The 1. cu. clap hands and cast off into the 2. cu. place.</p>
+         </div>
+         <div type="song">
+            <pb n="33" facs="tcp:33707:25"/>
+            <head>Greenwich <hi>Park.</hi> Long way for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The 1. cu. lead up and cast off below the 2. cu. <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> The 3. cu. do the same <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> The 1. cu. cross over below the 2. cu. and turn up the middle into their own places <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> Then back to back with their Part<g ref="char:EOLhyphen"/>ners, the 1. cu. clap hands with their Partners and cast off <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="song">
+            <pb n="34" facs="tcp:33707:26"/>
+            <head>Shores <hi>Trumpet. Tune</hi> Long way for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The 1. man turns the 2. woman with the right hand, then turns his own Partner with the left; the 1. woman does the same <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>
+            </p>
+            <p>The 1. cu. take hands, turn between the 2. cu. The 1. man stands in the 2. womans place, then fall back; the 1. cu. being in the 2. cu. place, go the Figure of Eight thorow, which brings them in the 2. cu. place <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="song">
+            <pb n="35" facs="tcp:33707:26"/>
+            <head>
+               <hi>My Lord</hi> Byron<hi>'s Delight.</hi> Long way for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The 1. man turns 2. woman with his right hand, and his own Partner with his left <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>
+            </p>
+            <p>The 1. woman does the same <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>
+            </p>
+            <p>The 1. cu. take hands and lead thorow the 2. cu. and back again. Then cast off into the 2. cu. place;</p>
+            <p>Right and left with your Partners quite round, then the Figure of Eight quite round again <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> Right and left with your Partners again, which brings the 1. cu. into the 2. cu. place.</p>
+         </div>
+         <div type="song">
+            <pb n="36" facs="tcp:33707:27"/>
+            <head>
+               <hi>The Barly-Mow.</hi> Long way for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The 1. man set to the 2. woman falls back and turn single; then turn 2. woman and cast off in<g ref="char:EOLhyphen"/>to the 2. mans place <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> The 1. woman does the same <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> All 4. hands half round and turn single.</p>
+            <p>Then right and left with your Partners. Then lead thorow above and cast off into the 2. cu. place.</p>
+         </div>
+         <div type="song">
+            <pb n="37" facs="tcp:33707:27"/>
+            <head>An Additional Sheet to the <hi>Second Part</hi> of the <hi>Dancing-Master. <hi>The Saylors delight.</hi>
+               </hi> Longways for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The 1. cu. back to back with the 2. cu. and back to back with their own Partners. <hi>This to the first Strain played once.</hi> The 1. cu. turn the 2. cu. and turn their own. <hi>This to the first Strain played twice.</hi> Meet and set all four, turn S. and clap hands all four, go quite round. <hi>This to the second Strain played once.</hi> The 1. cu. go the Figure through the 2. cu. and cross over and turn their own Partners. <hi>This to the second Strain played twice.</hi>
+            </p>
+         </div>
+         <div type="song">
+            <pb n="38" facs="tcp:33707:28"/>
+            <head>
+               <hi>Dr.</hi> Pope's <hi>Jigg.</hi> Longways for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The 1. cu. go the Figure through the 2. cu. and turn three times in their own places, then the 2. cu. go the Figure through the 1. cu. and turn three times in their own places. <hi>This to the first Strain played twice.</hi> The 1. and 2. cu. go right and left all round, and the 1. man change places with the 2. wo. and the 1. wo. with the 2. man, then all four hands half round, and the 1. cu. cast off. <hi>This to the second Strain played twice.</hi>
+            </p>
+         </div>
+         <div type="song">
+            <pb n="39" facs="tcp:33707:28"/>
+            <head>
+               <hi>Windsor-Castle.</hi> Longways for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The 1. cu. take hands and turn down the middle, the 2. cu. cast up at the same time, the 2. cu. turn down the middle, and the 1. cu. cast up; and both cu. do the same as before. <hi>To the first Strain twice.</hi> The 1. cu. cross over below the 2. cu. and go the Figure, the 1. cu. lead through the 3. cu. and cast up into the 2. cu. place,</p>
+         </div>
+         <div type="song">
+            <pb n="40" facs="tcp:33707:29"/>
+            <head>
+               <hi>The New Fagary</hi> Longways for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>Lead up all back <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> That again, the 1. man moves to the 2. wo. Salute her and turn her about and fall into their own places, the 1. wo. and 2. man do the same <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> The 1. man and 2. wo. go back to back, and fall into their own places, the 1. wo. and 2. man do as much <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> The two men clap hands and the 2. wo. then turn all round single, then clap hands with your own, and cast off into the second place <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> Do this to the last.</p>
+         </div>
+         <div type="song">
+            <pb n="41" facs="tcp:33707:29"/>
+            <head>
+               <hi>The Jovial Beggars.</hi> Longways for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The 1. man cast off below the 2. man into the 2. wos. place, the 1. wo. follows her Partner into the 2. mans place. <hi>To the first Strain once.</hi> The 1. wo. in the 2. mans place cast up into her own place, and the man follows her into his own place <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> The 1. man take his Partner and lead through the 2. cu. and back again and cast off; <hi>The second Strain once.</hi> All four lead up hands abreast, lead through and cast off into the 2. cu. place; <hi>The second Strain twice.</hi> The rest do the like.</p>
+         </div>
+         <div type="song">
+            <pb n="42" facs="tcp:33707:30"/>
+            <head>
+               <hi>Damme.</hi> Longways for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>All four set to your Parners and turn S. and hands half round; <hi>First Strain once.</hi>
+            </p>
+            <p>All four set to your Parners and turn S. and hands half round into your own places; <hi>First Strain twice.</hi>
+            </p>
+            <p>The 2. man go back to back, the women the same at the same time; then right and left with your Partners quite round; <hi>Second Strain once.</hi>
+            </p>
+            <p>The 1. cu. go the Figure through into their one places, then right and left with your Partners which brings the 1. cu. into the 2. cu. place; <hi>Second Strain twice.</hi>
+            </p>
+         </div>
+         <div type="song">
+            <pb n="43" facs="tcp:33707:30"/>
+            <head>
+               <hi>The Jacks farewell.</hi> Longways for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The 1. cu. meet and set to the 2. cu. and turn S. <hi>This to the first Strain played once.</hi>
+            </p>
+            <p>Then meet and set to there own Partners and turn; <hi>This to the first Strain played twice.</hi>
+            </p>
+            <p>Then all four hands half round and cross over with your own Partners; <hi>This to the second Strain play<g ref="char:EOLhyphen"/>ed once.</hi>
+            </p>
+            <p>The 1. cu. go the Figure through the 2. cu. and turn their own Partners; <hi>This to the second Strain played twice.</hi>
+            </p>
+         </div>
+         <div type="song">
+            <pb n="44" facs="tcp:33707:31"/>
+            <head>
+               <hi>The</hi> Dutches. Longways for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The 1. man cast off and slip up the middle, the 1. wo. goes down the middle and cast up at the same time; the 2. man cast up and go down the middle, the 2. wo. goes down the middle and cast off into their own places; the 1. cu. cast off and go quite round the 2. cu. into their own places, and all four take hands and go quite round till they come into their own place, the 1. cu. cast off.</p>
+         </div>
+         <div type="song">
+            <pb n="45" facs="tcp:33707:31"/>
+            <head>
+               <hi>From</hi> Aberdeen. Longways for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The 1. man cast off below the 2. man, and take hands and fall down between the 3. cu. the wo. fol<g ref="char:EOLhyphen"/>lows her Partner and slips between the 2. cu. <hi>This to the first Strain twice.</hi>
+            </p>
+            <p>The 1. man being between the 3. cu. all three take hands and go quite round, the 1. wo. being be<g ref="char:EOLhyphen"/>tween the 2. cu. does the same at the same time; the 1. man being between the 3. cu. hands quite round, the we. do the same at the same time, till he comes in the middle and meets his Partner between the 2. and third cu. and turn her; the 1. man does the same between the 2. cu. as before.</p>
+         </div>
+         <div type="song">
+            <pb n="46" facs="tcp:33707:32"/>
+            <head>
+               <hi>Hay to the Camp.</hi> Longways for as many as will.<figure/>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <p>The 1. cu. cast off and lead through the 3. cu. and cast up into the 2. cu. place, and lead through the 2. cu. and cast off into the 2. cu. place <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> The 2. cu. being in the 1. cu. place do the same as be<g ref="char:EOLhyphen"/>fore <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> All four take hands and go quite round the 1. man, cross over with the 2. wo. the other two do the same, then right and left quite round <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> Till the 1. cu. comes into the 2. cu. place <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="song">
+            <pb n="47" facs="tcp:33707:32"/>
+            <head>A New <hi>Spanish</hi> Entrey, and Sarabrand Danced by Mounsieur <hi>L'Abbe</hi> before His Majesty at <hi>Kensington,</hi> and at the Theatre in <hi>Little Lincolnes-Inn-Fields,</hi> with great Applause.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <pb n="48" facs="tcp:33707:33"/>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>Sarabrand. <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:33707:33"/>
+         </div>
+      </body>
+   </text>
+</TEI>
